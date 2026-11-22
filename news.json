@@ -1,5 +1,12 @@
 [
   {
+    "id": "v120",
+    "title": "WaveStrap 1.2: Stretched resolution",
+    "body": "Play Roblox stretched (like 1440x1080) without touching your desktop: WaveStrap switches only while Roblox is open and restores your normal resolution when it closes.",
+    "date": "2026-11-22",
+    "tag": "Update"
+  },
+  {
     "id": "v110",
     "title": "WaveStrap 1.1: 12 new mods & Experiences",
     "body": "New Experiences page with favorites and recently played, custom sounds with preview, volume and window presets, launcher themes with an editor, mod updates, rollback, backups and an import wizard.",
@@ -26,12 +33,5 @@
     "body": "Roblox limits which client flags it reads. WaveStrap only writes flags on that list, so nothing is silently ignored.",
     "date": "2026-11-21",
     "tag": "Note"
-  },
-  {
-    "id": "mods-1",
-    "title": "Make your own mod packs",
-    "body": "A mod pack is a ZIP with a wavestrap-mod.json and a files/ folder. See docs/ADDING_FEATURES.md in the repository.",
-    "date": "2026-11-21",
-    "tag": "Guide"
   }
 ]
