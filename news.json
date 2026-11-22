@@ -1,0 +1,23 @@
+[
+  {
+    "id": "welcome-1",
+    "title": "Welcome to WaveStrap 1.0",
+    "body": "Cursor themes, mod packs, profiles and official-installer repair are all in. Pick a profile on Home to get started.",
+    "date": "2026-11-21",
+    "tag": "Release"
+  },
+  {
+    "id": "fflags-1",
+    "title": "Only Roblox-allowed client settings",
+    "body": "Roblox limits which client flags it reads. WaveStrap only writes flags on that list, so nothing is silently ignored.",
+    "date": "2026-11-21",
+    "tag": "Note"
+  },
+  {
+    "id": "mods-1",
+    "title": "Make your own mod packs",
+    "body": "A mod pack is a ZIP with a wavestrap-mod.json and a files/ folder. See docs/ADDING_FEATURES.md in the repository.",
+    "date": "2026-11-21",
+    "tag": "Guide"
+  }
+]
