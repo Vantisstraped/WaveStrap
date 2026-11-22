@@ -1,7 +1,14 @@
 [
   {
+    "id": "ui-101",
+    "title": "WaveStrap 1.0.1: fresh new look",
+    "body": "A redesigned interface with a tabbed, searchable Settings page, Quick Actions, and smooth animations throughout. Turn animations down in Settings \u2192 Appearance if you prefer.",
+    "date": "2026-11-21",
+    "tag": "Update"
+  },
+  {
     "id": "welcome-1",
-    "title": "Welcome to WaveStrap 1.0",
+    "title": "Welcome to WaveStrap",
     "body": "Cursor themes, mod packs, profiles and official-installer repair are all in. Pick a profile on Home to get started.",
     "date": "2026-11-21",
     "tag": "Release"
