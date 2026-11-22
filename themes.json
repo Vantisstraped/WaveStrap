@@ -1,0 +1,82 @@
+[
+  {
+    "id": "aurora",
+    "name": "Aurora",
+    "author": "WaveStrap",
+    "mode": "dark",
+    "colors": {
+      "bg": "#070d12",
+      "sidebar": "#0a1218",
+      "surface": "#0f1a22",
+      "surface2": "#14232d",
+      "surface3": "#1b2e3a",
+      "fg": "#ecf7f4",
+      "muted": "#8fb3ab",
+      "accent": "#2dd4a7"
+    }
+  },
+  {
+    "id": "sunset",
+    "name": "Sunset",
+    "author": "WaveStrap",
+    "mode": "dark",
+    "colors": {
+      "bg": "#130b0d",
+      "sidebar": "#170d10",
+      "surface": "#1f1215",
+      "surface2": "#28181c",
+      "surface3": "#331f24",
+      "fg": "#fbefea",
+      "muted": "#c29a90",
+      "accent": "#ff7a45"
+    }
+  },
+  {
+    "id": "grape",
+    "name": "Grape Soda",
+    "author": "WaveStrap",
+    "mode": "dark",
+    "colors": {
+      "bg": "#0d0a16",
+      "sidebar": "#110d1c",
+      "surface": "#171226",
+      "surface2": "#1f1832",
+      "surface3": "#29203f",
+      "fg": "#f1ecfb",
+      "muted": "#a596c4",
+      "accent": "#9b4dff"
+    }
+  },
+  {
+    "id": "paper",
+    "name": "Paper",
+    "author": "WaveStrap",
+    "mode": "light",
+    "colors": {
+      "bg": "#f6f3ee",
+      "sidebar": "#efe9e1",
+      "surface": "#fffdf9",
+      "surface2": "#f3eee6",
+      "surface3": "#e8e1d6",
+      "fg": "#1d1a16",
+      "muted": "#6f665a",
+      "accent": "#d9480f"
+    }
+  },
+  {
+    "id": "neon-tide",
+    "name": "Neon Tide",
+    "author": "WaveStrap",
+    "mode": "dark",
+    "colors": {
+      "bg": "#05060d",
+      "sidebar": "#070914",
+      "surface": "#0c0f1e",
+      "surface2": "#121629",
+      "surface3": "#1a1f36",
+      "fg": "#eef1ff",
+      "muted": "#8d94c0",
+      "accent": "#00c2ff"
+    }
+  }
+]
