@@ -1,5 +1,12 @@
 [
   {
+    "id": "v141",
+    "title": "WaveStrap 1.4.1: Crash fix",
+    "body": "Roblox could crash on launch when Vulkan rendering was forced. WaveStrap now switches risky graphics options back to Automatic if Roblox crashes.",
+    "date": "2026-11-23",
+    "tag": "Fix"
+  },
+  {
     "id": "v140",
     "title": "WaveStrap 1.4: Font library",
     "body": "Pick from 12 built-in fonts with live previews and real bold text, or import your own. Plus an optional server location notice when you join a game.",
@@ -24,13 +31,6 @@
     "id": "v110",
     "title": "WaveStrap 1.1: 12 new mods & Experiences",
     "body": "New Experiences page with favorites and recently played, custom sounds with preview, volume and window presets, launcher themes with an editor, mod updates, rollback, backups and an import wizard.",
-    "date": "2026-11-21",
-    "tag": "Update"
-  },
-  {
-    "id": "ui-101",
-    "title": "WaveStrap 1.0.1: fresh new look",
-    "body": "A redesigned interface with a tabbed, searchable Settings page, Quick Actions, and smooth animations throughout. Turn animations down in Settings \u2192 Appearance if you prefer.",
     "date": "2026-11-21",
     "tag": "Update"
   }
