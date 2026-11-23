@@ -1,5 +1,12 @@
 [
   {
+    "id": "v130",
+    "title": "WaveStrap 1.3: Performance boosts",
+    "body": "New Performance section with one-click Max performance, plus stretched resolution that works on more PCs: pick your monitor, keep your refresh rate, test before you play.",
+    "date": "2026-11-23",
+    "tag": "Update"
+  },
+  {
     "id": "v120",
     "title": "WaveStrap 1.2: Stretched resolution",
     "body": "Play Roblox stretched (like 1440x1080) without touching your desktop: WaveStrap switches only while Roblox is open and restores your normal resolution when it closes.",
@@ -26,12 +33,5 @@
     "body": "Cursor themes, mod packs, profiles and official-installer repair are all in. Pick a profile on Home to get started.",
     "date": "2026-11-21",
     "tag": "Release"
-  },
-  {
-    "id": "fflags-1",
-    "title": "Only Roblox-allowed client settings",
-    "body": "Roblox limits which client flags it reads. WaveStrap only writes flags on that list, so nothing is silently ignored.",
-    "date": "2026-11-21",
-    "tag": "Note"
   }
 ]
